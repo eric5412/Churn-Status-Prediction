@@ -1,5 +1,5 @@
 # Churn Status Prediction
-================
+
 ## Introduction:
 Customer churn is the percentage of customers who stopped using a company's products or services during a specified time period.
 
@@ -11,7 +11,7 @@ Measuring customer churn is important for several reasons:
 
 - **Cost Efficiency:** Acquiring new customers is often more expensive than retaining existing customers.
 
-** Date Source:** Customer Churn dataset on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
+* **Date Source:** Customer Churn dataset on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 
 <br>
 
@@ -32,12 +32,12 @@ Out of the total customer base, **5,174** customers did not churn, while **1,869
 **Gender Distribution in Churn:**
 
 - Among those who have not churned, there are slightly more male customers (2,625) compared to female customers (2,549).
-Among those who have churned, the numbers for females (939) and males (930) are almost equal.
+- Among those who have churned, the numbers for females (939) and males (930) are almost equal.
 
 **Gender-wise Churn Rate:**
 
 - For Females: 939 out of 3,488 total female customers have churned. This gives a churn rate of approximately 27%.
-For Males: 930 out of 3,555 total male customers have churned. This gives a churn rate of approximately 26%.
+- For Males: 930 out of 3,555 total male customers have churned. This gives a churn rate of approximately 26%.
 
 **Key Takeaways:**
 
@@ -129,30 +129,30 @@ The model that had the highest Recall value was the Naive Bayes classifier, and 
 
 <br>
 
+![Predictions](/images/6.png)
+
+<br>
+
+## Key Takeaways:
+
+- Customers with month-to-month contracts have a significantly higher churn rate compared to those with one-year or two-year contracts. This indicates that customers on shorter-term contracts are more likely to leave.
+
+- Customers with higher monthly charges tend to have a higher churn rate. This suggests that cost sensitivity is a significant factor in customer retention, and customers may be seeking more affordable alternatives.
+
+- Customers with longer tenure are less likely to churn. This indicates that once customers are engaged and satisfied over a longer period, they tend to remain loyal to the company.
+
+<br>
+
+## Recommendations:
+
+- The company can consider encouraging customers to switch from month-to-month contracts to one-year or two-year contracts by offering incentives such as discounts, additional benefits, or loyalty rewards. This can help reduce churn rates and increase customer retention.
+
+- Another consideration can be implementing strategies to address cost sensitivity among customers with higher monthly charges. This could include offering tiered pricing plans, bundling services at a discounted rate, or providing personalized offers based on customer usage patterns.
+
+- Focusing on improving the onboarding experience and providing exceptional support during the initial months of a customer's tenure can help build strong relationships early on and reduce the likelihood of churn.
 
 
+**Please click [here](https://github.com/eric5412/Churn-Status-Prediction/blob/main/customer%20churn%20project.ipynb) for the entire project.**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br>
+<br><br>
