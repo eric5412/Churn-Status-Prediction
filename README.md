@@ -67,7 +67,7 @@ Out of the total customer base, **5,174** customers did not churn, while **1,869
 
 - The company can consider conducting detailed surveys or focus groups with senior citizen customers to understand their specific pain points and preferences.
 
-The company can create tailored offerings or support services specifically designed to address the needs and concerns of senior citizens.
+- The company can create tailored offerings or support services specifically designed to address the needs and concerns of senior citizens.
 
 <br><br>
 
