@@ -76,17 +76,17 @@ Out of the total customer base, **5,174** customers did not churn, while **1,869
 **Month-to-Month Contract:**
 
 - Total customers: 3,875 (2,220 no churn + 1,655 churn)
-Churn rate: **43%** (1,655 churn out of 3,875)
+- Churn rate: **43%** (1,655 churn out of 3,875)
 
 **One Year Contract:**
 
-Total customers: 1,473 (1,307 no churn + 166 churn)
-Churn rate: **11%** (166 churn out of 1,473)
+- Total customers: 1,473 (1,307 no churn + 166 churn)
+- Churn rate: **11%** (166 churn out of 1,473)
 
 **Two Year Contract:**
 
-Total customers: 1,695 (1,647 no churn + 48 churn)
-Churn rate: **3%** (48 churn out of 1,695)
+- Total customers: 1,695 (1,647 no churn + 48 churn)
+- Churn rate: **3%** (48 churn out of 1,695)
 
 **Higher Retention for Longer Contracts:**
 
