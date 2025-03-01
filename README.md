@@ -11,7 +11,7 @@ Measuring customer churn is important for several reasons:
 
 - **Cost Efficiency:** Acquiring new customers is often more expensive than retaining existing customers.
 
-* **Date Source:** Customer Churn dataset on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
+**Date Source:** Customer Churn dataset on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 
 <br>
 
