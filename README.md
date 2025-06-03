@@ -125,7 +125,7 @@ In the context of churn prediction, a false negative can be considered more cost
 <br>
 
 ## Final Model and Predictions:
-The model that had the highest Recall value was the Naive Bayes classifier, and it will be used to make customer churn predictions.
+The model that had the highest Recall value was the AdaBoost classifier, and it will be used to make customer churn predictions.
 
 <br>
 
